@@ -1,0 +1,17 @@
+C:\Users\v-mokoan\Source\Repos\DoublyLink\XUnitDoublyLink\obj\Debug\netcoreapp2.1\XUnitDoublyLink.csprojAssemblyReference.cache
+C:\Users\v-mokoan\Source\Repos\DoublyLink\XUnitDoublyLink\obj\Debug\netcoreapp2.1\XUnitDoublyLink.csproj.CoreCompileInputs.cache
+C:\Users\v-mokoan\Source\Repos\DoublyLink\XUnitDoublyLink\obj\Debug\netcoreapp2.1\XUnitDoublyLink.AssemblyInfoInputs.cache
+C:\Users\v-mokoan\Source\Repos\DoublyLink\XUnitDoublyLink\obj\Debug\netcoreapp2.1\XUnitDoublyLink.AssemblyInfo.cs
+C:\Users\v-mokoan\Source\Repos\DoublyLink\XUnitDoublyLink\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\v-mokoan\Source\Repos\DoublyLink\XUnitDoublyLink\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\v-mokoan\Source\Repos\DoublyLink\XUnitDoublyLink\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\v-mokoan\Source\Repos\DoublyLink\XUnitDoublyLink\bin\Debug\netcoreapp2.1\XUnitDoublyLink.deps.json
+C:\Users\v-mokoan\Source\Repos\DoublyLink\XUnitDoublyLink\bin\Debug\netcoreapp2.1\XUnitDoublyLink.runtimeconfig.json
+C:\Users\v-mokoan\Source\Repos\DoublyLink\XUnitDoublyLink\bin\Debug\netcoreapp2.1\XUnitDoublyLink.runtimeconfig.dev.json
+C:\Users\v-mokoan\Source\Repos\DoublyLink\XUnitDoublyLink\bin\Debug\netcoreapp2.1\XUnitDoublyLink.dll
+C:\Users\v-mokoan\Source\Repos\DoublyLink\XUnitDoublyLink\bin\Debug\netcoreapp2.1\XUnitDoublyLink.pdb
+C:\Users\v-mokoan\Source\Repos\DoublyLink\XUnitDoublyLink\bin\Debug\netcoreapp2.1\DoublyLink.dll
+C:\Users\v-mokoan\Source\Repos\DoublyLink\XUnitDoublyLink\bin\Debug\netcoreapp2.1\DoublyLink.pdb
+C:\Users\v-mokoan\Source\Repos\DoublyLink\XUnitDoublyLink\obj\Debug\netcoreapp2.1\XUnitDoublyLink.csproj.CopyComplete
+C:\Users\v-mokoan\Source\Repos\DoublyLink\XUnitDoublyLink\obj\Debug\netcoreapp2.1\XUnitDoublyLink.dll
+C:\Users\v-mokoan\Source\Repos\DoublyLink\XUnitDoublyLink\obj\Debug\netcoreapp2.1\XUnitDoublyLink.pdb

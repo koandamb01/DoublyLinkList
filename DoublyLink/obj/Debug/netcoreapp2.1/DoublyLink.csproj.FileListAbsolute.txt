@@ -1,0 +1,11 @@
+C:\Users\v-mokoan\Source\Repos\DoublyLink\DoublyLink\obj\Debug\netcoreapp2.1\DoublyLink.csprojAssemblyReference.cache
+C:\Users\v-mokoan\Source\Repos\DoublyLink\DoublyLink\obj\Debug\netcoreapp2.1\DoublyLink.csproj.CoreCompileInputs.cache
+C:\Users\v-mokoan\Source\Repos\DoublyLink\DoublyLink\obj\Debug\netcoreapp2.1\DoublyLink.AssemblyInfoInputs.cache
+C:\Users\v-mokoan\Source\Repos\DoublyLink\DoublyLink\obj\Debug\netcoreapp2.1\DoublyLink.AssemblyInfo.cs
+C:\Users\v-mokoan\Source\Repos\DoublyLink\DoublyLink\bin\Debug\netcoreapp2.1\DoublyLink.deps.json
+C:\Users\v-mokoan\Source\Repos\DoublyLink\DoublyLink\bin\Debug\netcoreapp2.1\DoublyLink.runtimeconfig.json
+C:\Users\v-mokoan\Source\Repos\DoublyLink\DoublyLink\bin\Debug\netcoreapp2.1\DoublyLink.runtimeconfig.dev.json
+C:\Users\v-mokoan\Source\Repos\DoublyLink\DoublyLink\bin\Debug\netcoreapp2.1\DoublyLink.dll
+C:\Users\v-mokoan\Source\Repos\DoublyLink\DoublyLink\bin\Debug\netcoreapp2.1\DoublyLink.pdb
+C:\Users\v-mokoan\Source\Repos\DoublyLink\DoublyLink\obj\Debug\netcoreapp2.1\DoublyLink.dll
+C:\Users\v-mokoan\Source\Repos\DoublyLink\DoublyLink\obj\Debug\netcoreapp2.1\DoublyLink.pdb
